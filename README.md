@@ -39,8 +39,8 @@ You can run each and every .py file in my directory with command : python follow
 ```
 ### Command-line Arguments
 - `--epochs` : Numbers of training epochs (30)
-- `batch_size` : Batch size for training (128)
-- `Optimizer` : AdamW
-- `learning rate scheduler` : 0.0005
-- `loss function`: CrossEntropyLoss
+- `--batch_size` : Batch size for training (128)
+- `--Optimizer` : AdamW
+- `--learning rate scheduler` : 0.0005
+- `--loss function`: CrossEntropyLoss
 ```
